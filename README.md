@@ -1,6 +1,6 @@
 # SQL-Portfolio-Project-NBA-Allstar-Break
 
-This project is based on favorite sport (basketball) and is used as a deep dive behind the stats that accompany NBA before they approach the allstar break (the midpoint of the season) . The competitiveness of the NBA is usually at its highest before the allstar break where teams are trying to establish their season and get a picture of how close they are for a playoff push. I have used stats from the games before the 2022-2023 and 2021-2022 all star breaks to determine if teams have improved in certain categories such as scoring, assisting, winning games and more.
+This project is based on my favorite sport (basketball) and is used as a deep dive behind the stats that accompany NBA before they approach the allstar break (the midpoint of the season) . The competitiveness of the NBA is usually at its highest before the allstar break where teams are trying to establish their season and get a picture of how close they are for a playoff push. I have used stats from the games before the 2022-2023 and 2021-2022 all star breaks to determine if teams have improved in certain categories such as scoring, assisting, winning games and more.
 
 The objective that I have set for this project is to derive insights that would help evaluate the improvements or deficiencies that have occurred between last season and this season. These findings can be used to determine where teams should improve upon in the 2nd half of the season to either finish the season a good note or make a last minute playoff push.
 
